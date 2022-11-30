@@ -5,7 +5,7 @@
 #### Here's some information about me:
 
 - 🌱 I’m currently improving Python, HTML, CSS and JavaScript languages.
-- 📌 I’m looking to collaborate on full-stack or data analysis projects.
+- 📌 I’m looking to collaborate on front-end or data analysis projects.
 - 📧 How to reach me: lucas.and.rib@gmail.com
 
 ##
