@@ -5,7 +5,7 @@
 #### Here's some information about me:
 
 - 🌱 I’m currently improving Python and JavaScript languages.
-- 📌 I’m looking to collaborate on front-end or data analysis projects.
+- 📌 I’m looking to collaborate on machine learning, computer vision and firmware projects.
 - 📧 How to reach me: lucas.and.rib@gmail.com
 
 ##
@@ -14,6 +14,8 @@
 
 <div style="display: flex; flex-direction: row;">
     <img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+    <img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
     <img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
     <img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
