@@ -43,8 +43,8 @@
 | [Transfer Function Calculus](https://github.com/lvcasribeiro/transfer-function-calculus)                          | This code aims to analyze any second-order control system and transfer functions in a practical way, using the python programming language.              | Python                            | Jupyter Notebook         | Control Math                       |
 | [Products Management Website](https://github.com/lvcasribeiro/products-management-app)                            | This repository aims to concentrate relevant information and codes about a full stack application for data management.                                   | Angular, HTML, CSS and JavaScript | -                        | Front-end and Back-end Development |
 
-##
+<!-- ##
 
-#### My top languages:
+#### My top languages: -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcasribeiro&layout=compact&theme=dracula)](https://github.com/lvcasribeiro/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcasribeiro&layout=compact&theme=dracula)](https://github.com/lvcasribeiro/github-readme-stats) -->
