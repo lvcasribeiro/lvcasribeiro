@@ -5,7 +5,7 @@
 #### Here's some information about me:
 
 - 🌾 I’m currently improving Python and JavaScript languages and machine learning development.
-- 💡 I’m looking to collaborate on machine learning, computer vision and firmware projects.
+- 🎨 I’m looking to collaborate on machine learning, computer vision and firmware projects.
 - 📫 Get in touch: lucas.and.rib@gmail.com
 
 ##
