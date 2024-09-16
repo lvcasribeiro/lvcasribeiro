@@ -15,7 +15,7 @@
 <div style="display: flex; flex-direction: row; gap: .25rem;">
     <img style="width: 40px; filter: brightness(0) invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
     <img style="width: 40px; filter: brightness(0) invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-    <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+    <img style="width: 40px; filter: brightness(0) invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
     <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <img style="width: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
